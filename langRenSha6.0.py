@@ -7,8 +7,8 @@ import pyttsx3
 import os
 
 # 配置
-API_KEY = "sk-e420e460d1904ea3871965618c61ff1b"
-BASE_URL = "https://api.deepseek.com"
+API_KEY = ""
+BASE_URL = ""
 isKill = False
 
 # 角色设定
